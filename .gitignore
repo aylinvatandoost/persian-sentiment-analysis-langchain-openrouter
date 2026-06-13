@@ -1,0 +1,23 @@
+# secrets
+.env
+.streamlit/secrets.toml
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# notebooks/cache
+.ipynb_checkpoints/
+
+# raw datasets / local data
+*.csv
+data/
+dataset/
+datasets/
+
+# local outputs
+outputs/
+logs/
